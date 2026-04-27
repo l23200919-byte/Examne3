@@ -1,0 +1,75 @@
+.producto-card {
+    padding: 10px;
+    background-color: #FFFFFF;
+}
+
+.producto-img {
+    height: 300px;
+    object-fit: contain;
+    background-color: #F5F5F3;
+    padding: 10px;
+}
+
+.card-body {
+    padding: 20px;
+}
+
+.form-control {
+    border: 1px solid #CFCFCF;
+}
+
+.btn-dark {
+    background-color: #0F0F0F;
+    border: none;
+}
+
+.btn-dark:hover {
+    background-color: #B8A46D;
+}
+
+#total {
+    color: #B8A46D;
+    font-weight: bold;
+}
+
+.list-group-item {
+    border: 1px solid #CFCFCF;
+    margin-bottom: 8px;
+}
+
+#carrito .tarjeta {
+    margin-top: 20px;
+}
+
+footer {
+    text-align: center;
+    padding: 20px;
+    background-color: #0F0F0F;
+    color: white;
+}
+
+.redes {
+    margin-top: 10px;
+    text-align: center;
+}
+
+.redes a {
+    color: white;
+    font-size: 25px;
+    margin: 0 10px;
+    text-decoration: none;
+}
+
+.redes a:hover {
+    color: #B8A46D;
+}
+
+.redes img {
+    width: 30px;
+    height: 30px;
+    margin: 0 10px;
+}
+
+.redes img:hover {
+    transform: scale(1.1);
+}
